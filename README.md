@@ -1,4 +1,4 @@
-# Projet 2 — Optimisation quantique de routes de livraison au Bénin
+# Projet 2 - Optimisation quantique de routes de livraison au Bénin
 
 **Qiskit Fall Fest 2026 • IndabaX Benin • Sèmè City**
 
